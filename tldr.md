@@ -33,6 +33,7 @@ tldr got an rust client, which is tlrc. It does the exact same thing, mapped to 
 when installed, just so happens to be written in rust for efficiency.
 
 # How can I install it?
+
 There's many different ways to install the tool, so let's go through some most used ones:
 1) Once again for my MacOS users, brew can be used:
 ```brew install tldr```
