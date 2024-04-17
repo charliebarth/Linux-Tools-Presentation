@@ -43,8 +43,9 @@ Well there's many different options to installing it! Let's go through some of t
 
 1) For all my MacOS users out there, we can use homebrew (my best friend)
 ```brew install rm-improved```
-2) Download the tar bomb and move into your bin:
-```tar xvzf rip-*.tar.gz
-   mv rip /usr/local/bin'''
-3) Use cargo to install it:
+
+3) Download the tar bomb and move into your bin:
+```tar xvzf rip-*.tar.gz``` => ```mv rip /usr/local/bin```
+
+5) Use cargo to install it:
 ```cargo install rm-improved```
