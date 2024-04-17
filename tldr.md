@@ -27,3 +27,18 @@ decides they want to add information to the markdown file.
 By simply going to their GitHub repo, you can create a pull request for either a tool that doesn't
 have an entry or update one with more information! It's a really simple process, and in the 
 README for the repository, it breaks down all steps to add to this as well!
+
+# Wait, tldr/tlrc? 
+tldr got an rust client, which is tlrc. It does the exact same thing, mapped to tldr as an alias
+when installed, just so happens to be written in rust for efficiency.
+
+# How can I install it?
+There's many different ways to install the tool, so let's go through some most used ones:
+1) Once again for my MacOS users, brew can be used:
+```brew install tldr```
+2) Can use NPM:
+```npm install -g tldr```
+3) Or even pip3, pythons package manager:
+```pip3 install tldr```
+
+And if you want to use tlrc, just replace tldr with tlrc.
