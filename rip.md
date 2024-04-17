@@ -36,3 +36,15 @@ Other than the undo feature, rip is generally the same tool as rm! It's open-sou
 in Rust, and the project has been completed since 2021. For it's use case, it was quickly created,
 debugged, and considered "safe" to use. As always, use this tool at your own risk, but I have 
 enjoyed it a lot and consider a lot safer than rm. 
+
+# I'm sold! How can I install it?
+
+Well there's many different options to installing it! Let's go through some of the most common:
+
+1) For all my MacOS users out there, we can use homebrew (my best friend)
+```brew install rm-improved```
+2) Download the tar bomb and move into your bin:
+```tar xvzf rip-*.tar.gz
+   mv rip /usr/local/bin'''
+3) Use cargo to install it:
+```cargo install rm-improved```
